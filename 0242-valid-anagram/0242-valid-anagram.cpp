@@ -3,7 +3,7 @@ public:
     bool isAnagram(string s, string t) {
         if (t.size() != s.size())
             return false;
-        map<char, int> m;
+        unordered_map<char, int> m;
         for (int i = 0; i < s.size(); i++) {
             m[s[i]]++;
         }
