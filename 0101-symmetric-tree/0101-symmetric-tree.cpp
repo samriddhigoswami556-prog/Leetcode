@@ -15,8 +15,8 @@ public:
     bool isSym(TreeNode* r1, TreeNode* r2) {
         if (r1 == NULL || r2 == NULL) {
             return r1 == r2;
-        }if(r1->val != r2->val) return false;
-        return isSym(r1->left, r2->right) && isSym(r1->right, r2->left);
+        }
+        return r1->val ==r2->val && isSym(r1->left, r2->right) && isSym(r1->right, r2->left);
     }
     bool isSymmetric(TreeNode* root) { return isSym(root, root); }
 };
