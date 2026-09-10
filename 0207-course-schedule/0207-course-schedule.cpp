@@ -5,9 +5,9 @@ public:
         vis[src] = true;
         recPath[src] = true;
         for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-            if (u == src) {
+            int v = edges[i][0];
+            int u = edges[i][1];
+            if (src == u) {
                 if (!vis[v]) {
                     if (isCycle(v, vis, recPath, edges))
                         return true;
