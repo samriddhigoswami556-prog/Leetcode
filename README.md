@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0292-nim-game) |
+| [0836-rectangle-overlap](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Brainteaser
 |  |
 | ------- |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
