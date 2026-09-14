@@ -9,12 +9,23 @@ public:
         int by1 = rec2[1];
         int bx2 = rec2[2];
         int by2 = rec2[3];
-        if (bx1 >= ax1 && bx1 < ax2 && by2 > ay1 && by1 <= ay2 ||
-            (ax1 >= bx1 && ax1 < bx2 && ay2 > by1 && ay1 <= by2))
-            return true;
-        if (bx2 > ax1 && bx2 <= ax2 && by2 > ay1 && by1 <= ay2 ||
-            (ax2 > bx1 && ax2 <= bx2 && ay2 > by1 && ay1 <= by2))
-            return true;
-        return false;
+        // if (bx1 >= ax1 && bx1 < ax2 && by2 > ay1 && by1 <= ay2 ||
+        //     (ax1 >= bx1 && ax1 < bx2 && ay2 > by1 && ay1 <= by2))
+        //     return true;
+        // if (bx2 > ax1 && bx2 <= ax2 && by2 > ay1 && by1 <= ay2 ||
+        //     (ax2 > bx1 && ax2 <= bx2 && ay2 > by1 && ay1 <= by2))
+        //     return true;
+        // return false;
+
+        // OR
+        if (ax2 <= bx1)
+            return false;
+        if (bx2 <= ax1)
+            return false;
+        if (by1 >= ay2)
+            return false;
+        if (by2 <= ay1)
+            return false;
+        return true;
     }
 };
