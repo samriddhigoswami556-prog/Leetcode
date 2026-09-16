@@ -192,6 +192,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0183-customers-who-never-order) |
 ## Graph Theory
 |  |
