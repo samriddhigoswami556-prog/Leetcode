@@ -14,6 +14,7 @@
 | [0008-string-to-integer-atoi](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0165-compare-version-numbers](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
