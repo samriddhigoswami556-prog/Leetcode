@@ -3,7 +3,8 @@ public:
     string removeOuterParentheses(string s) {
         int i = 0;
         stack<char> st;
-        vector<string> v;
+        // vector<string> v;
+        string ans = "";
         while (i < s.size()) {
             string x = "";
             if (s[i] == '(') {
@@ -20,15 +21,16 @@ public:
                     }
                     i++;
                 }
-                v.push_back(x);
+                int n = x.size();
+                ans += x.substr(1, n - 2);
                 x = "";
             }
         }
-        string ans = "";
-        for (int i = 0; i < v.size(); i++) {
-            int n = v[i].size();
-            ans += v[i].substr(1, n - 2);
-        }
+        // string ans = "";
+        // for (int i = 0; i < v.size(); i++) {
+        //     int n = v[i].size();
+        //     ans += v[i].substr(1, n - 2);
+        // }
         return ans;
     }
 };
