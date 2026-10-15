@@ -39,6 +39,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0733-flood-fill](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,4 +219,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samriddhigoswami556-prog/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
